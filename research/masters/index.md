@@ -2,7 +2,9 @@
 title: "Masters Research"
 author: "Jen Reeve"
 date: '`r Sys.Date()`'
-output: html_document
+output: 
+  md_document:
+    variant: markdown_github
 ---
 
 ## Nitrogen Cycling in the Arctic
