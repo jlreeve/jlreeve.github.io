@@ -1,5 +1,6 @@
-name: Hank Quinlan, Horrible Cop
+name: Jen Reeve #setting name
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-cayman
+github_username: jlreeve
+twitter_username: seejenscience
+theme: jekyll-theme-cayman #setting theme
